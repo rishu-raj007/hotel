@@ -1,0 +1,59 @@
+{
+  "hotels": [
+    {
+      "name": "Luxury Suites",
+      "location": "New York City",
+      "rating": 4.8,
+      "image": "https://galleria1910.com/wp-content/uploads/2021/03/ca6d4327-ba64-4df1-8ee3-bb44c0915157.jpg",
+      "rooms_available": 50,
+      "amenities": ["Free WiFi", "Swimming Pool", "Spa", "Fitness Center"]
+    },
+    {
+      "name": "Beachside Resort",
+      "location": "Miami",
+      "rating": 4.5,
+      "image": "https://images.pexels.com/photos/3155666/pexels-photo-3155666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rooms_available": 80,
+      "amenities": [
+        "Private Beach Access",
+        "Poolside Bar",
+        "Tennis Courts",
+        "Water Sports"
+      ]
+    },
+    {
+      "name": "Mountain Lodge",
+      "location": "Aspen",
+      "rating": 4.7,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/61654615.jpg?k=a3b9951c3133847cebd86d49b38df7e10d3079c3b3b85b36787fffb6c2161a76&o=&hp=1",
+      "rooms_available": 30,
+      "amenities": ["Ski-in/Ski-out", "Hot Tub", "Restaurant", "Hiking Trails"]
+    },
+    {
+      "name": "Urban Boutique Hotel",
+      "location": "San Francisco",
+      "rating": 4.6,
+      "image": "https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?w=996&t=st=1709919132~exp=1709919732~hmac=8fb4aa6374b5ac436675396745d321c60c4fcfc225f71cbc7e44468b84fca508",
+      "rooms_available": 40,
+      "amenities": [
+        "Rooftop Terrace",
+        "Bar & Lounge",
+        "Concierge Service",
+        "Fitness Center"
+      ]
+    },
+    {
+      "name": "Historic Inn",
+      "location": "Boston",
+      "rating": 4.4,
+      "image": "https://www.historicinnsofannapolis.com/resourcefiles/homeimages/homepage-slider-2.jpg?version=2072024230337",
+      "rooms_available": 20,
+      "amenities": [
+        "Historic Charm",
+        "Complimentary Breakfast",
+        "Meeting Rooms",
+        "Garden"
+      ]
+    }
+  ]
+}
